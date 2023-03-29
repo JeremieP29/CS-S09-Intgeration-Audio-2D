@@ -5,7 +5,7 @@ Projet démo pour l'intégration audio dans Unity2D
 Ce projet a été créé avec Unity2D version 2022.1.7f1.
 
 ## Assets utilisés
-- 2D Platformer Microgame v2.1.0
+- [2D Game Kit](https://assetstore.unity.com/packages/templates/tutorials/2d-game-kit-107098)
 
 ## Crédits
 
