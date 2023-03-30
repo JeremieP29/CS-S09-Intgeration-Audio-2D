@@ -1,5 +1,5 @@
-# Intégration audio dans Unity2D
-Projet démo pour l'intégration audio dans Unity2D
+# Intégration audio dans Unity
+Projet Unity 2D pour un exercice d'intégration de sons ponctuels, pour un cours de Conception Sonore.
 
 ## Version du logiciel
 Ce projet a été créé avec Unity2D version 2022.1.7f1.
