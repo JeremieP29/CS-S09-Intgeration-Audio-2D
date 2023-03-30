@@ -143,9 +143,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clips:
-  - {fileID: 8300000, guid: 794ba4ea53ad9c34ba72e97fa76b793f, type: 3}
-  - {fileID: 8300000, guid: 6b428d6a2a5cddd4cb167561aca4ffe7, type: 3}
-  - {fileID: 8300000, guid: 1b46739dd2e72b043937117be94011c8, type: 3}
+  - {fileID: 8300000, guid: b2cca108e22223147a6571926f75f838, type: 3}
+  - {fileID: 8300000, guid: 3584a10481813a240b0e0a9ec87730f8, type: 3}
+  - {fileID: 8300000, guid: 40612c21954ba41409e820d233a9bd1b, type: 3}
   overrides: []
   randomizePitch: 1
   pitchRange: 0.2
@@ -195,7 +195,6 @@ Transform:
   - {fileID: 4936532561290520}
   - {fileID: 4190244102070708}
   - {fileID: 4971493519252120}
-  - {fileID: 4168598803991272}
   - {fileID: 4530920980854552}
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -844,10 +843,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clips:
-  - {fileID: 8300000, guid: 13de3c8b19190eb488622c2982f7e977, type: 3}
-  - {fileID: 8300000, guid: ccb3ad8b5906ef14d921491eb8be7e2d, type: 3}
-  - {fileID: 8300000, guid: 88cf4c38c64a7b84f88a54036e698825, type: 3}
-  - {fileID: 8300000, guid: 234b586e812e70b419affbe33e30dcfe, type: 3}
+  - {fileID: 8300000, guid: 90ef6dbaf92278249b1617f761c87f0d, type: 3}
+  - {fileID: 8300000, guid: 9e258a7032616f44e860300301415979, type: 3}
+  - {fileID: 8300000, guid: 3e4b710d37c1a004590979c5ec7d8a8c, type: 3}
+  - {fileID: 8300000, guid: dbde97384a8c2b54f925103b5a9660a9, type: 3}
   overrides:
   - tile: {fileID: 11400000, guid: 1032823b40fd7ef4ea6f06b3e6c5c860, type: 2}
     clips:
@@ -961,46 +960,6 @@ MonoBehaviour:
   levelLayermask:
     serializedVersion: 2
     m_Bits: 2147483648
---- !u!1 &1239464407698750
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 4168598803991272}
-  - component: {fileID: 81430354304811952}
-  m_Layer: 13
-  m_Name: AudioListener
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &4168598803991272
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1239464407698750}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -2}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 4212235226361802}
-  m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!81 &81430354304811952
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1239464407698750}
-  m_Enabled: 1
 --- !u!1 &1349833382445384
 GameObject:
   m_ObjectHideFlags: 0
@@ -1144,9 +1103,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clips:
-  - {fileID: 8300000, guid: 6b6f919b655318a469cb53dcc1712340, type: 3}
-  - {fileID: 8300000, guid: d50f2e0626e662041aa8a2ff5f8ebcc6, type: 3}
-  - {fileID: 8300000, guid: 55cf2d6b154ee6d4e87f7f87ac724172, type: 3}
+  - {fileID: 8300000, guid: dfddd010d24571443b6c15e11225fac0, type: 3}
+  - {fileID: 8300000, guid: 4933221ffc79c3c428e4bd9aa63e8455, type: 3}
+  - {fileID: 8300000, guid: b1ee922fa5e70fa4288b859eb7feb0e6, type: 3}
   overrides: []
   randomizePitch: 0
   pitchRange: 0.2
@@ -1448,7 +1407,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clips:
-  - {fileID: 8300000, guid: ea217dc637f73b649a2866febb99c4a2, type: 3}
+  - {fileID: 8300000, guid: ee07ca822ac81eb4bb75496ec9cc2d32, type: 3}
   overrides: []
   randomizePitch: 1
   pitchRange: 0.4
@@ -1595,8 +1554,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clips:
-  - {fileID: 8300000, guid: 328365d0fef474487b0826fc1049de57, type: 3}
-  - {fileID: 8300000, guid: 81448fec9f15a4b5c87004cff6ad1d44, type: 3}
+  - {fileID: 8300000, guid: 0cde6c55031a4a4478e4dd727e768067, type: 3}
+  - {fileID: 8300000, guid: 29a2f85d4d9f750429e1b270eec6e7a0, type: 3}
   overrides: []
   randomizePitch: 1
   pitchRange: 0.2
